@@ -1,6 +1,6 @@
-# 💰 Personal Expense Tracker (Python CLI)
+# 💰 Personal Finance Tracker (Python CLI)
 
-A command-line based **Personal Expense Tracker** built with Python.  
+A command-line based **Personal Finance Tracker** built with Python.  
 This project helps you **record, view, and analyze** your daily financial transactions.  
 It uses **CSV for persistent storage**, **pandas for data processing**, and **matplotlib for visualizing income/expenses over time**.  
 
